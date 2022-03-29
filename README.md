@@ -38,10 +38,12 @@ Designs for each state are shown below.
 
 
 - Mobile Design
+
 ![Mobile Design](design/mobile-design.jpg)
 
 
 - Mobile Thank You State
+
 ![Mobile Thank You State](design/mobile-thank-you-state.jpg)
 
 ### Method
