@@ -7,7 +7,7 @@ Live site can be viewed [here.](https://shadyxstep.github.io/interactive-rating-
 ## Table of Contents
 1. [**Technologies Used**](#technologies-used)
 2. [**Design**](#design)
-3. [**Method](#method)
+3. [**Method**](#method)
 
 ## Technologies Used
 
@@ -21,16 +21,27 @@ The design of the rating component was provided by Frontend Mentor. I simply had
 
 Designs for each state are shown below.
 
+- Active State
 ![Active States](design/active-states.jpg)
 
+
+- Desktop Design
 ![Desktop Design](design/desktop-design.jpg)
 
+
+- Desktop Preview
 ![Desktop Preview](design/desktop-preview.jpg)
 
+
+- Desktop Thank You State
 ![Desktop Thank You State](design/desktop-thank-you-state.jpg)
 
+
+- Mobile Design
 ![Mobile Design](design/mobile-design.jpg)
 
+
+- Mobile Thank You State
 ![Mobile Thank You State](design/mobile-thank-you-state.jpg)
 
 ### Method
